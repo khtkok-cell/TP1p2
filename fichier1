@@ -1,1 +1,4 @@
 premier test
+Pour pousser un projet sur GitHub via HTTPS,
+il ne faut plus utiliser ton mot de passe habituel.
+À la place, tu dois générer un Personal Access Token depuis les paramètres de ton compte.
